@@ -1,0 +1,4 @@
+Streamlit
+numpy
+folium
+streamlit_folium
